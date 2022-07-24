@@ -1,0 +1,68 @@
+body{
+	background-color: #E9E6DF;
+}
+
+.texto{
+	background-color: #f14523;
+	width: 80%;
+	margin: auto;
+	padding: 30px;
+	border-radius: 20px;
+}
+
+img.log{
+	width: 12%;
+	justify-content: center;
+	text-align: center;
+	margin: auto;
+	display: block;
+	margin-top: 29px;
+	margin-bottom: -110px;
+}
+.titulo{
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	font-size: 3em;
+}
+
+.parrafo{
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	text-align: justify;
+	font-size: 1.5em;
+}
+
+.navIcon{
+	width: 25px;
+}
+
+.blanco{
+	-webkit-text-stroke: 1px black;
+	font-size: 1em;
+}
+
+.centrado{
+	text-align: center;
+}
+
+.trabajo{
+	color: white;
+	border: 2px solid #ffffff;
+	background-image: url(../img/chef.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 0px;
+}
+
+.btn{
+	background-color: #f14523;
+	color: #ffffff;
+	padding: 5px;
+	margin: 10px;
+	border-radius: 5px;
+}
+
+iframe{
+	margin: 0 auto;
+	display: block;
+}
